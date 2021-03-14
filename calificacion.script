@@ -1,0 +1,2 @@
+Mkdisk e -path=/home/juandiegoalv/Escritorio/proyecto1/disco5.dk –U=K –size=4000
+Mkdisk -Size=3000 –u=K -path=/home/juandiegoalv/Escritorio/proyecto1/disco6. 

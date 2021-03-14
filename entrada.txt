@@ -1,0 +1,1 @@
+exec  -path=/home/juandiegoalv/Escritorio/proyecto1/calificacion.script
